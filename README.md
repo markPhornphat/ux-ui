@@ -1,2 +1,4 @@
-# ux-ui
-UX/UI design project name "Learning Mate" 
+<h1> "Learning Mate" - our UX/UI design </h1>
+
+The coronavirus epidemic causes disruption in education which makes education from on-site to online. Therefore, we developed LearningMate to increase the efficiency of online study to be equivalent to an on-site study by focusing on making instructors get more communication with the learner including creating a platform that gives students access to educational content and the requirements for the assignment to make it easier to work. The techniques that we used to design our application are PACT analysis, 7 factors that influence user experience for creating an application that is convenient and easy to use. <br><br>
+Our UI design: <a href="https://www.figma.com/proto/RubJsVT4XmJSvSZbDWagJ7/Learning-Mate-Prototype?type=design&node-id=58-117&t=F29pDnG3mKR53xVP-1&scaling=scale-down&page-id=1%3A47&starting-point-node-id=1%3A186&mode=design">Clcik here!</a>
